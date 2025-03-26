@@ -1,0 +1,8 @@
+**/__pycache__/
+*.pyc
+.idea/
+.env
+.web_app/bruno_test
+.media/
+venv/
+.vscode/
