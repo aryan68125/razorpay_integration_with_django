@@ -1,3 +1,5 @@
 from django.shortcuts import render
 
-# Create your views here.
+#Render panges
+def test_api_view():
+    pass
